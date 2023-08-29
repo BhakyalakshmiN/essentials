@@ -1,0 +1,39 @@
+This app is designed to perform Temperature
+ conversion from Celsius to Farenheit and Farenheit to Celsius.
+
+All software dependencies are handled using Codesandbox dependencies.
+No software required to be installed to view this app.
+
+By giving the value in temperature field with the selected unit, the output will be shown in Result along with temperature unit.
+As per the requirement, the color indicator is displayed by changing the background color of the app.
+
+Color range as follows:
+If farenheit is selected and result is in Celsius,
+value ranging from 
+below 0 to 15 it will display as light blue indicating cool temperature.
+16 to 24 it will display as light orange, indicating warm temperature.
+25 to 30 it will display as organgish red, indicating light hot temperature.
+above 30 as red, indicating very hot temperature.
+
+If Celsius is selected and result is in Farenheit,
+value ranging from
+
+Validations are handled by creating the temperature field as number type.
+Color range as follows:
+
+If farenheit is selected and result is in Celsius,
+
+value ranging from 
+below 0 to 15 it will display as light blue indicating cool temperature.
+16 to 24 it will display as light orange, indicating warm temperature.
+25 to 30 it will display as organgish red, indicating light hot temperature.
+above 30 as red, indicating very hot temperature.
+
+If Celsius is selected and result is in Farenheit,
+
+value ranging from
+below 0 to 45 it will display as light blue, indicating cold temperature. 
+46 to 60 it will display as greenish blue indicating cool temperature.
+61 to 79 it will display as light green indicating pleasant temperature.
+80 to 89 it will display as light orange, indicating warm temperature.
+above 90 it will display as red, indicating hot temperature.

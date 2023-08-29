@@ -1,0 +1,32 @@
+/* Class used to design the container of the app */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  background-position: right;
+}
+/* class used to design the box which is placed centered in the app for converting temperature.*/
+.white-box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 500px;
+}
+.input-field {
+  margin-bottom: 15px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 60%;
+}
+.heading {
+  text-align: center;
+}
+.button {
+  font-weight: 800;
+  color: white;
+  background: #060047;
+}
